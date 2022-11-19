@@ -1,3 +1,4 @@
 # CapLabs
 ## Medical Imagery Visualization and Analysis ##
-![doctors-wearing-vr-simulation-with-hologram-medical-technology](https://user-images.githubusercontent.com/117946893/202865545-dd92d2ff-a620-4973-a581-2e6f0917534a.jpg)
+
+![Photo byaimeevia Iwaria](https://user-images.githubusercontent.com/117946893/202865808-e6a14362-b9df-4f38-9dd1-0fb7571a747e.jpeg)
