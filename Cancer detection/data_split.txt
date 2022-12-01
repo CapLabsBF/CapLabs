@@ -1,0 +1,11 @@
+1:   1200 images
+0:   1200 images
+2:   1200 images
+
+last 1200 : label = 1
+first 2400 :
+	even idx : label = 0
+
+train - 0:1680, 2400:3240 = 2520 images
+val  - 1680:2040, 3240:3420 = 540 images
+test - 2040:2400, 3420:3600 = 540 images
