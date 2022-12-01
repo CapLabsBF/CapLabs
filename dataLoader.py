@@ -39,7 +39,7 @@ def loadData(path: str):
                 slices.append(elm)
                 slices.sort(key= lambda s:s.SliceLocation) # Order the slices by their SliceLocation value
 
-        print("Slice(s) skipped: {}".format(len(path_list)-len(slices)))
+        print("Slice(s) skipped: {}\n".format(len(path_list)-len(slices)))
         
         return slices
     

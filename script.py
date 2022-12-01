@@ -20,6 +20,6 @@ else:
     slices=loadData(sys.argv[1])
     if(slices != None):
         point3D=Gen3dArr(slices)
-        point3D.saveSlices()
+        #point3D.saveSlices()
     
 # <---*
